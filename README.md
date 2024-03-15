@@ -135,15 +135,16 @@ A single page report was created on Power BI Desktop & it was then published to 
 
 Following inferences can be drawn from the dashboard;
 
-### [1] Total Number of Customers = 129880
+### [1] Total Revenue = $12.64M
 
-   Number of satisfied Customers (Male) = 28159 (21.68 %)
+   Sales and Profit by Segment
 
-   Number of satisfied Customers (Female) = 28269 (21.76 %)
-
-   Number of neutral/unsatisfied customers (Male) = 35822 (27.58 %)
-
-   Number of neutral/unsatisfied customers (Female) = 37630 (28.97 %)
+   - Consumer = $6.51M (51.48%)   
+    <div align="right">
+        <img src="![image](https://github.com/JaiKattimani45/JaiKattimani45/assets/110810509/c68c0321-c0d0-43e2-b9ae-fb8b68dc6804)" width="300" height="200" />
+    </div>
+   - Corporate = $3.82M (30.25%)
+   - Home office = $2.31M (18.27%) 
 
 
            thus, higher number of customers are neutral/unsatisfied.
