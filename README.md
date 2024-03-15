@@ -138,9 +138,8 @@ Following inferences can be drawn from the dashboard;
 ### [1] Total Revenue = $12.64M
 
    Sales and Profit by Segment
-
-   <img src="![image](https://github.com/JaiKattimani45/Power-BI-Dashboard/assets/110810509/e6166fe9-6055-4d74-a644-37b10ac4de83)
-" width='200' />
+   
+![image](https://github.com/JaiKattimani45/Power-BI-Dashboard/assets/110810509/e6166fe9-6055-4d74-a644-37b10ac4de83)
 
    - Consumer = $6.51M (51.48%)   
    - Corporate = $3.82M (30.25%)
