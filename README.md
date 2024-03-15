@@ -139,7 +139,7 @@ Following inferences can be drawn from the dashboard;
 
    Sales and Profit by Segment
 
-   <img src="![image](https://github.com/JaiKattimani45/JaiKattimani45/assets/110810509/c68c0321-c0d0-43e2-b9ae-fb8b68dc6804)
+   <img src="![image](https://github.com/JaiKattimani45/Power-BI-Dashboard/assets/110810509/e6166fe9-6055-4d74-a644-37b10ac4de83)
 " width='200' />
 
    - Consumer = $6.51M (51.48%)   
