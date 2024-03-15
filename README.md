@@ -139,10 +139,10 @@ Following inferences can be drawn from the dashboard;
 
    Sales and Profit by Segment
 
+   <img src="![image](https://github.com/JaiKattimani45/JaiKattimani45/assets/110810509/c68c0321-c0d0-43e2-b9ae-fb8b68dc6804)
+" width='200' />
+
    - Consumer = $6.51M (51.48%)   
-    <div align="right">
-        <img src="![image](https://github.com/JaiKattimani45/JaiKattimani45/assets/110810509/c68c0321-c0d0-43e2-b9ae-fb8b68dc6804)" width="300" height="200" />
-    </div>
    - Corporate = $3.82M (30.25%)
    - Home office = $2.31M (18.27%) 
 
